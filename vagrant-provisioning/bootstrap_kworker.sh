@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/bash
 
 echo "[TASK 1] Join node to Kubernetes Cluster"
 apt install -qq -y sshpass >/dev/null 2>&1
